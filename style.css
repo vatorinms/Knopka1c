@@ -1,0 +1,29 @@
+@import url(./vendor/normalize.css);
+
+
+.header__menu {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+
+
+.header__menu_item {
+    color: #2d2d2d;
+    font-size: 24px;
+    font-family: 'FuturaPT', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    border-radius: 30px;
+    background-color: #ffffff;
+    background-position: center center;
+    background-position-x: center;
+    background-position-y: center;
+    border-color: transparent;
+    border-style: solid;
+    
+
+
+
+}
