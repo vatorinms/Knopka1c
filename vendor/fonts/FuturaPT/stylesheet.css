@@ -60,12 +60,12 @@
 
 @font-face {
     font-family: 'Futura PT';
-    src: url('FuturaPT-LightObl.eot');
-    src: local('Futura PT Light Oblique'), local('FuturaPT-LightObl'),
-        url('FuturaPT-LightObl.eot?#iefix') format('embedded-opentype'),
-        url('FuturaPT-LightObl.woff2') format('woff2'),
-        url('FuturaPT-LightObl.woff') format('woff'),
-        url('FuturaPT-LightObl.ttf') format('truetype');
+    src: url('./fonts/FuturaPT/FuturaPT-LightObl.eot');
+    src: local('./fonts/FuturaPT/Futura PT Light Oblique'), local('./fonts/FuturaPT/FuturaPT-LightObl'),
+        url('./fonts/FuturaPT/FuturaPT-LightObl.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/FuturaPT/FuturaPT-LightObl.woff2') format('woff2'),
+        url('./fonts/FuturaPT/FuturaPT-LightObl.woff') format('woff'),
+        url('./fonts/FuturaPT/FuturaPT-LightObl.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
