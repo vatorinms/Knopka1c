@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Futura PT';
-    src: url('FuturaPT-Bold.eot');
-    src: local('Futura PT Bold'), local('FuturaPT-Bold'),
-        url('FuturaPT-Bold.eot?#iefix') format('embedded-opentype'),
-        url('FuturaPT-Bold.woff2') format('woff2'),
-        url('FuturaPT-Bold.woff') format('woff'),
-        url('FuturaPT-Bold.ttf') format('truetype');
+    src: url('./fonts/FuturaPT/FuturaPT-Bold.eot');
+    src: local('./fonts/FuturaPT/Futura PT Bold'), local('FuturaPT-Bold'),
+        url('./fonts/FuturaPT/FuturaPT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/FuturaPT/FuturaPT-Bold.woff2') format('woff2'),
+        url('./fonts/FuturaPT/FuturaPT-Bold.woff') format('woff'),
+        url('./fonts/FuturaPT/FuturaPT-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
